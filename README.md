@@ -44,5 +44,9 @@ With this dataset, machine learning tasks such as regression, time-series foreca
 
 Overall, this dataset holds great potential for analyzing and understanding GHG emissions trends in Ontario over the past decade and can be used to build predictive models to aid in environmental and sustainability studies. However, it is essential to ensure data quality, handle missing values, and preprocess the data appropriately before applying machine learning algorithms.
 
+Instruction to run the code
+1. Go to https://github.com/Rony109/Assignment10
+and download the pynb file, place it in the software along with the dataset
+and execute it
 
 
